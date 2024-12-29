@@ -1,0 +1,211 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Wabot Menfess</title>
+    <link rel="icon" href="favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
+    <style>
+        body {
+            background-color: #121212;
+            color: #ffffff;
+            font-family: 'Arial', sans-serif;
+            overflow-x: hidden;
+        }
+
+        .hero {
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+            padding: 20px;
+        }
+
+        .hero h1 {
+            font-size: 3rem;
+            margin-bottom: 20px;
+            animation: fadeIn 2s;
+            background: linear-gradient(
+                104.04deg,
+                #1472ff -4%,
+                #47a9ff 23%,
+                #adc3ff 50%,
+                #ffadc9 77%,
+                #ff476b 104%
+            );
+            -webkit-background-clip: text;
+            background-clip: text;
+            -webkit-text-fill-color: transparent;
+            max-width: fit-content;
+            transition: transform 0.3s;
+        }
+
+        .hero h1:hover {
+            transform: scale(1.05); /* Efek zoom saat hover */
+        }
+
+        .hero p {
+            font-size: 1.2rem;
+            margin-bottom: 30px;
+            animation: fadeIn 2s 0.5s forwards;
+        }
+
+        .btn-custom {
+            background: linear-gradient(90deg, #00c6ff, #0072ff);
+            color: #ffffff;
+            padding: 15px 30px;
+            font-size: 1.2rem;
+            border-radius: 30px;
+            transition: transform 0.3s, box-shadow 0.3s;
+            text-decoration: none;
+            border: none;
+        }
+
+        .btn-custom:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 20px rgba(0, 198, 255, 0.5);
+        }
+
+            .btn-join-group {
+    color: #ffffff; /* Teks berwarna putih */
+    font-size: 0.9rem; /* Ukuran font kecil */
+    text-decoration: none; /* Hilangkan garis bawah */
+    margin-top: 10px; /* Jarak dari tombol sebelumnya */
+    padding: 5px 10px;
+    display: inline-block;
+}
+
+.btn-join-group:hover {
+    color: #cccccc; /* Warna teks saat hover */
+}
+
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        /* Loading style */
+.loading {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(18, 18, 18, 0.9);
+    justify-content: center;
+    align-items: center;
+    z-index: 1000;
+    backdrop-filter: blur(5px);
+}
+
+.loader {
+    width: 120px;
+    height: 22px;
+    border-radius: 40px;
+    color: #0072ff; /* Warna diganti sesuai preferensi */
+    border: 2px solid;
+    position: relative;
+    overflow: hidden;
+}
+
+.loader::before {
+    content: "";
+    position: absolute;
+    margin: 2px;
+    width: 14px;
+    top: 0;
+    bottom: 0;
+    left: -20px;
+    border-radius: inherit;
+    background: currentColor;
+    box-shadow: -10px 0 12px 3px currentColor;
+    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0 95%, -30px 50%);
+    animation: l14 1s infinite linear;
+}
+
+@keyframes l14 {
+    100% {
+        left: calc(100% + 20px);
+    }
+}
+
+
+        /* Responsive adjustments */
+        @media (max-width: 768px) {
+            .hero h1 {
+                font-size: 2.5rem; /* Ukuran font lebih kecil di perangkat kecil */
+            }
+
+            .hero p {
+                font-size: 1rem; /* Ukuran font lebih kecil di perangkat kecil */
+            }
+
+            .btn-custom {
+                padding: 10px 20px; /* Padding lebih kecil di perangkat kecil */
+                font-size: 1rem; /* Ukuran font lebih kecil di perangkat kecil */
+            }
+        }
+
+        @media (max-width: 576px) {
+            .hero h1 {
+                font-size: 2rem; /* Ukuran font lebih kecil di perangkat sangat kecil */
+            }
+
+            .hero p {
+                font-size: 0.9rem; /* Ukuran font lebih kecil di perangkat sangat kecil */
+            }
+        }
+      
+
+
+    </style>
+</head>
+
+<body>
+    <div class="hero">
+        <h1>Welcome to Wabot Menfess!</h1>
+        <p>Dive into a world of menfessions with our WhatsApp bot! Share your secrets anonymously and explore the intriguing stories of others—no judgment, just connection!</p>
+        <a href="#" id="join-button" class="btn btn-custom">
+            Get Started <i class="fas fa-arrow-right"></i>
+        </a>
+      <a href="https://chat.whatsapp.com/L5OUiV1WF5EJLU2fDjR62C" class="btn-join-group">
+    Join Group
+</a>
+
+    </div>
+
+    <div class="loading" id="loading">
+        <div class="loader"></div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" crossorigin="anonymous"></script>
+    <script>
+        document.getElementById('join-button').addEventListener('click', function (event) {
+            event.preventDefault(); // Mencegah default link
+            document.getElementById('loading').style.display = 'flex'; // Tampilkan efek loading
+            setTimeout(function () {
+                window.location.href = 'https://wa.me/628994592167?text=.menfess'; // Redirect setelah 3 detik
+              document.getElementById('loading').style.display = 'none';
+            }, 3000);
+        });
+    </script>
+</body>
+
+</html>
