@@ -1,12 +1,10 @@
-
 <!DOCTYPE html>
 <html lang="en">
 
 <head>
-  
-  <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Wabot Menfess</title>
+    <title>Wabot Menfess</title>
     <link rel="icon" href="favicon.ico" type="image/x-icon">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css">
@@ -48,7 +46,7 @@
         }
 
         .hero h1:hover {
-            transform: scale(1.05); /* Efek zoom saat hover */
+            transform: scale(1.05);
         }
 
         .hero p {
@@ -73,18 +71,18 @@
             box-shadow: 0 0 20px rgba(0, 198, 255, 0.5);
         }
 
-            .btn-join-group {
-    color: #ffffff; /* Teks berwarna putih */
-    font-size: 0.9rem; /* Ukuran font kecil */
-    text-decoration: none; /* Hilangkan garis bawah */
-    margin-top: 10px; /* Jarak dari tombol sebelumnya */
-    padding: 5px 10px;
-    display: inline-block;
-}
+        .btn-join-group {
+            color: #ffffff;
+            font-size: 0.9rem;
+            text-decoration: none;
+            margin-top: 10px;
+            padding: 5px 10px;
+            display: inline-block;
+        }
 
-.btn-join-group:hover {
-    color: #cccccc; /* Warna teks saat hover */
-}
+        .btn-join-group:hover {
+            color: #cccccc;
+        }
 
         @keyframes fadeIn {
             from {
@@ -99,94 +97,111 @@
         }
 
         /* Loading style */
-.loading {
-    display: none;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    background-color: rgba(18, 18, 18, 0.9);
-    justify-content: center;
-    align-items: center;
-    z-index: 1000;
-    backdrop-filter: blur(5px);
-}
+        .loading {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background-color: rgba(18, 18, 18, 0.9);
+            justify-content: center;
+            align-items: center;
+            z-index: 1000;
+            backdrop-filter: blur(5px);
+        }
 
-.loader {
-    width: 120px;
-    height: 22px;
-    border-radius: 40px;
-    color: #0072ff; /* Warna diganti sesuai preferensi */
-    border: 2px solid;
-    position: relative;
-    overflow: hidden;
-}
+        .loader {
+            width: 120px;
+            height: 22px;
+            border-radius: 40px;
+            color: #0072ff;
+            border: 2px solid;
+            position: relative;
+            overflow: hidden;
+        }
 
-.loader::before {
-    content: "";
-    position: absolute;
-    margin: 2px;
-    width: 14px;
-    top: 0;
-    bottom: 0;
-    left: -20px;
-    border-radius: inherit;
-    background: currentColor;
-    box-shadow: -10px 0 12px 3px currentColor;
-    clip-path: polygon(0 5%, 100% 0, 100% 100%, 0 95%, -30px 50%);
-    animation: l14 1s infinite linear;
-}
+        .loader::before {
+            content: "";
+            position: absolute;
+            margin: 2px;
+            width: 14px;
+            top: 0;
+            bottom: 0;
+            left: -20px;
+            border-radius: inherit;
+            background: currentColor;
+            box-shadow: -10px 0 12px 3px currentColor;
+            clip-path: polygon(0 5%, 100% 0, 100% 100%, 0 95%, -30px 50%);
+            animation: l14 1s infinite linear;
+        }
 
-@keyframes l14 {
-    100% {
-        left: calc(100% + 20px);
-    }
-}
+        @keyframes l14 {
+            100% {
+                left: calc(100% + 20px);
+            }
+        }
 
+        /* Animations */
+        .bounceIn {
+            animation: bounceIn 1s ease-in-out;
+        }
+
+        @keyframes bounceIn {
+            0% {
+                transform: scale(0.3);
+                opacity: 0;
+            }
+
+            50% {
+                transform: scale(1.1);
+                opacity: 1;
+            }
+
+            100% {
+                transform: scale(1);
+            }
+        }
 
         /* Responsive adjustments */
         @media (max-width: 768px) {
             .hero h1 {
-                font-size: 2.5rem; /* Ukuran font lebih kecil di perangkat kecil */
+                font-size: 2.5rem;
             }
 
             .hero p {
-                font-size: 1rem; /* Ukuran font lebih kecil di perangkat kecil */
+                font-size: 1rem;
             }
 
             .btn-custom {
-                padding: 10px 20px; /* Padding lebih kecil di perangkat kecil */
-                font-size: 1rem; /* Ukuran font lebih kecil di perangkat kecil */
+                padding: 10px 20px;
+                font-size: 1rem;
             }
         }
 
         @media (max-width: 576px) {
             .hero h1 {
-                font-size: 2rem; /* Ukuran font lebih kecil di perangkat sangat kecil */
+                font-size: 2rem;
             }
 
             .hero p {
-                font-size: 0.9rem; /* Ukuran font lebih kecil di perangkat sangat kecil */
+                font-size: 0.9rem;
             }
         }
-      
-
 
     </style>
 </head>
 
 <body>
     <div class="hero">
-        <h1>Welcome to Wabot Menfess!</h1>
-        <p>Dive into a world of menfessions with our WhatsApp bot! Share your secrets anonymously and explore the intriguing stories of others—no judgment, just connection!</p>
-        <a href="#" id="join-button" class="btn btn-custom">
+        <h1 class="bounceIn">Welcome to Wabot Menfess!</h1>
+        <p class="bounceIn">Dive into a world of menfessions with our WhatsApp bot! Share your secrets anonymously and explore the intriguing stories of others—no judgment, just connection!</p>
+        <a href="#" id="join-button" class="btn btn-custom bounceIn">
             Get Started <i class="fas fa-arrow-right"></i>
         </a>
-      <a href="https://chat.whatsapp.com/L5OUiV1WF5EJLU2fDjR62C" class="btn-join-group">
-    Join Group
-</a>
-
+        <a href="https://chat.whatsapp.com/HOYUKnUjSlH1uo4Zp0qtnA" class="btn-join-group">
+            Join Group
+        </a>
     </div>
 
     <div class="loading" id="loading">
@@ -198,14 +213,14 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" crossorigin="anonymous"></script>
     <script>
         document.getElementById('join-button').addEventListener('click', function (event) {
-            event.preventDefault(); // Mencegah default link
-            document.getElementById('loading').style.display = 'flex'; // Tampilkan efek loading
+            event.preventDefault();
+            document.getElementById('loading').style.display = 'flex';
             setTimeout(function () {
-                window.location.href = 'https://wa.me/628994592167?text=.menfess'; // Redirect setelah 3 detik
-              document.getElementById('loading').style.display = 'none';
+                window.location.href = 'https://wa.me/6285183343636?text=.menfessmenu';
+                document.getElementById('loading').style.display = 'none';
             }, 3000);
         });
     </script>
 </body>
 
-</html>
+  </html>
