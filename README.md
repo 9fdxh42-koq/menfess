@@ -1,3 +1,3 @@
-# Improving text formatting
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-15T19:37:55.015Z_
+_Last updated: 2025-02-15T19:38:54.940Z_
