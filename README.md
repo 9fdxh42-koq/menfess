@@ -1,3 +1,3 @@
-# Enhancing security measures
+# Enhancing offline support
 
-_Last updated: 2025-02-15T23:45:37.679Z_
+_Last updated: 2025-02-15T23:46:38.079Z_
