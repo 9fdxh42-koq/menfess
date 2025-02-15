@@ -1,3 +1,3 @@
-# Improving API documentation
+# Fixing permission issues
 
-_Last updated: 2025-02-15T16:48:47.417Z_
+_Last updated: 2025-02-15T16:49:47.293Z_
