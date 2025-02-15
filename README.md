@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-15T19:21:54.787Z_
+_Last updated: 2025-02-15T19:22:54.250Z_
