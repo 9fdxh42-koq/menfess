@@ -1,3 +1,3 @@
-# Optimizing caching mechanism
+# Updating example code snippets
 
-_Last updated: 2025-02-15T23:33:36.850Z_
+_Last updated: 2025-02-15T23:34:37.191Z_
