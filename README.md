@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Enhancing offline support
 
-_Last updated: 2025-02-15T23:34:37.191Z_
+_Last updated: 2025-02-15T23:35:36.865Z_
