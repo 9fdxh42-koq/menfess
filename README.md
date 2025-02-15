@@ -1,3 +1,3 @@
-# Refactoring database queries
+# Updating example code snippets
 
-_Last updated: 2025-02-15T17:51:50.468Z_
+_Last updated: 2025-02-15T17:52:50.492Z_
