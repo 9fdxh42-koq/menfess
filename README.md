@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Improving keyboard accessibility
 
-_Last updated: 2025-02-15T15:56:44.758Z_
+_Last updated: 2025-02-15T15:57:44.488Z_
