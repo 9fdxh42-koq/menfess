@@ -1,3 +1,3 @@
-# Fixing formatting issues in logs
+# Updating API request parameters
 
-_Last updated: 2025-02-15T23:42:37.278Z_
+_Last updated: 2025-02-15T23:43:37.975Z_
