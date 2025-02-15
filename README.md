@@ -1,3 +1,3 @@
-# Enhancing code readability
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-15T19:03:53.896Z_
+_Last updated: 2025-02-15T19:04:53.471Z_
