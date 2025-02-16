@@ -1,3 +1,3 @@
-# Enhancing frontend performance
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T08:14:17.768Z_
+_Last updated: 2025-02-16T08:14:47.702Z_
