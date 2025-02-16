@@ -1,3 +1,3 @@
-# Fixing compatibility issues
+# Fixing image rendering issues
 
-_Last updated: 2025-02-16T22:45:48.426Z_
+_Last updated: 2025-02-16T22:46:18.021Z_
