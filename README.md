@@ -1,3 +1,3 @@
-# Fixing inconsistencies in data
+# Fixing inconsistent naming conventions
 
-_Last updated: 2025-02-16T10:49:08.127Z_
+_Last updated: 2025-02-16T10:49:38.115Z_
