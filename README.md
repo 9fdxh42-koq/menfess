@@ -1,3 +1,3 @@
-# Reformatting markdown files
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T20:16:44.463Z_
+_Last updated: 2025-02-16T20:17:14.431Z_
