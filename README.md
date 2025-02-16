@@ -1,3 +1,3 @@
-# Fixing UI glitches
+# Fixing permission issues
 
-_Last updated: 2025-02-16T06:45:46.077Z_
+_Last updated: 2025-02-16T06:46:15.796Z_
