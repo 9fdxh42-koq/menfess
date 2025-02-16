@@ -1,3 +1,3 @@
-# Fixing internationalization issues
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T04:54:55.865Z_
+_Last updated: 2025-02-16T04:55:25.874Z_
