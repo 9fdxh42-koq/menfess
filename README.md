@@ -1,3 +1,3 @@
-# Refining notification system
+# Updating API request parameters
 
-_Last updated: 2025-02-16T20:45:44.951Z_
+_Last updated: 2025-02-16T20:46:14.876Z_
