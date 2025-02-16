@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Fixing permission issues
 
-_Last updated: 2025-02-16T14:55:39.427Z_
+_Last updated: 2025-02-16T14:56:09.438Z_
