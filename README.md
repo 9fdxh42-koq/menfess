@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Fixing compatibility issues
 
-_Last updated: 2025-02-16T02:05:49.345Z_
+_Last updated: 2025-02-16T02:06:19.282Z_
