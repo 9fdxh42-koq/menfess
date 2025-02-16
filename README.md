@@ -1,3 +1,3 @@
-# Improving SEO metadata
+# Fixing compatibility issues
 
-_Last updated: 2025-02-16T15:17:09.341Z_
+_Last updated: 2025-02-16T15:17:39.272Z_
