@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Removing deprecated functions
 
-_Last updated: 2025-02-16T19:06:43.228Z_
+_Last updated: 2025-02-16T19:07:13.252Z_
