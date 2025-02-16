@@ -1,3 +1,3 @@
-# Security patch applied
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T14:56:39.289Z_
+_Last updated: 2025-02-16T14:57:09.410Z_
