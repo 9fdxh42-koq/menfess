@@ -1,3 +1,3 @@
-# Fixing broken links in README
+# Improving session handling
 
-_Last updated: 2025-02-16T10:34:38.323Z_
+_Last updated: 2025-02-16T10:35:07.792Z_
