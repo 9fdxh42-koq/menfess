@@ -1,3 +1,3 @@
-# Fixing internationalization issues
+# Adding better exception handling
 
-_Last updated: 2025-02-16T21:30:45.729Z_
+_Last updated: 2025-02-16T21:31:15.656Z_
