@@ -1,3 +1,3 @@
-# Updating dependencies
+# Fixing internationalization issues
 
-_Last updated: 2025-02-16T21:25:45.612Z_
+_Last updated: 2025-02-16T21:26:15.559Z_
