@@ -1,3 +1,3 @@
-# Adding drag-and-drop functionality
+# Enhancing offline support
 
-_Last updated: 2025-02-16T04:29:04.422Z_
+_Last updated: 2025-02-16T04:29:25.662Z_
