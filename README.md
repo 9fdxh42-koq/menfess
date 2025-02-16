@@ -1,3 +1,3 @@
-# Improving application startup time
+# Improving SEO metadata
 
-_Last updated: 2025-02-16T07:59:17.388Z_
+_Last updated: 2025-02-16T07:59:47.337Z_
