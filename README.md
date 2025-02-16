@@ -1,3 +1,3 @@
-# Performance improvements
+# Updating documentation formatting
 
-_Last updated: 2025-02-16T09:50:37.708Z_
+_Last updated: 2025-02-16T09:51:07.494Z_
