@@ -1,3 +1,3 @@
-# Improving API documentation
+# Refactoring component structure
 
-_Last updated: 2025-02-16T12:54:37.233Z_
+_Last updated: 2025-02-16T12:55:07.667Z_
