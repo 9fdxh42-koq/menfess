@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Simplifying function logic
 
-_Last updated: 2025-02-16T10:09:37.642Z_
+_Last updated: 2025-02-16T10:10:07.861Z_
