@@ -1,3 +1,3 @@
-# Refactor README.md
+# Adjusting styling for better UX
 
-_Last updated: 2025-02-16T06:57:15.988Z_
+_Last updated: 2025-02-16T06:57:45.884Z_
