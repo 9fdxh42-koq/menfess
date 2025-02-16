@@ -1,3 +1,3 @@
-# Improving database indexing
+# Fixing permission issues
 
-_Last updated: 2025-02-16T20:58:45.143Z_
+_Last updated: 2025-02-16T20:59:15.191Z_
