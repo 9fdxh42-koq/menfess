@@ -1,3 +1,3 @@
-# Enhancing mobile responsiveness
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-16T16:06:40.308Z_
+_Last updated: 2025-02-16T16:07:10.268Z_
