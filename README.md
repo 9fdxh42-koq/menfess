@@ -1,3 +1,3 @@
-# Enhancing code readability
+# Adding better exception handling
 
-_Last updated: 2025-02-16T17:03:41.093Z_
+_Last updated: 2025-02-16T17:04:11.092Z_
