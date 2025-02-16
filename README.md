@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Fixing UI glitches
 
-_Last updated: 2025-02-16T18:28:42.542Z_
+_Last updated: 2025-02-16T18:29:12.573Z_
