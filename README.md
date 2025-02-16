@@ -1,3 +1,3 @@
-# Fixing compatibility issues
+# Refactoring background jobs
 
-_Last updated: 2025-02-16T13:24:37.494Z_
+_Last updated: 2025-02-16T13:25:07.665Z_
