@@ -1,3 +1,3 @@
-# Fixing permission issues
+# Refactoring role-based access control
 
-_Last updated: 2025-02-16T19:53:44.042Z_
+_Last updated: 2025-02-16T19:54:14.055Z_
