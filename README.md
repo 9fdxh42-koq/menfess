@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Improving SEO metadata
 
-_Last updated: 2025-02-17T17:53:30.935Z_
+_Last updated: 2025-02-17T17:54:00.953Z_
