@@ -1,3 +1,3 @@
-# Fixing pagination bugs
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T02:07:54.366Z_
+_Last updated: 2025-02-17T02:08:24.287Z_
