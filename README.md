@@ -1,3 +1,3 @@
-# Fixing timezone-related issues
+# Refactoring background jobs
 
-_Last updated: 2025-02-17T13:55:58.260Z_
+_Last updated: 2025-02-17T13:56:31.287Z_
