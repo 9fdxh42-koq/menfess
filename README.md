@@ -1,3 +1,3 @@
-# Adding missing documentation
+# Fixing typos in documentation
 
-_Last updated: 2025-02-17T23:47:44.430Z_
+_Last updated: 2025-02-17T23:47:54.451Z_
