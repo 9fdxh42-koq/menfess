@@ -1,3 +1,3 @@
-# Improving application startup time
+# Rewriting inefficient algorithms
 
-_Last updated: 2025-02-17T22:14:35.525Z_
+_Last updated: 2025-02-17T22:15:05.528Z_
