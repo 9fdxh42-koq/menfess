@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Adding multi-language support
 
-_Last updated: 2025-02-17T18:23:31.379Z_
+_Last updated: 2025-02-17T18:24:01.438Z_
