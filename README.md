@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Refactoring component structure
 
-_Last updated: 2025-02-17T19:26:32.294Z_
+_Last updated: 2025-02-17T19:27:02.304Z_
