@@ -1,3 +1,3 @@
-# Simplifying function logic
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-17T13:31:58.078Z_
+_Last updated: 2025-02-17T13:32:27.974Z_
