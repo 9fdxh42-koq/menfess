@@ -1,3 +1,3 @@
-# Enhancing webhook reliability
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T22:17:35.961Z_
+_Last updated: 2025-02-17T22:18:08.976Z_
