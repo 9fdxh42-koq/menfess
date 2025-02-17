@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Reformatting markdown files
 
-_Last updated: 2025-02-17T21:06:03.773Z_
+_Last updated: 2025-02-17T21:06:33.843Z_
