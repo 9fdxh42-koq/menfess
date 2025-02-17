@@ -1,3 +1,3 @@
-# Reducing bundle size
+# Reducing redundant operations
 
-_Last updated: 2025-02-17T21:15:34.135Z_
+_Last updated: 2025-02-17T21:16:04.141Z_
