@@ -1,3 +1,3 @@
-# Refactoring component structure
+# Updating API request parameters
 
-_Last updated: 2025-02-17T19:45:02.568Z_
+_Last updated: 2025-02-17T19:45:32.605Z_
