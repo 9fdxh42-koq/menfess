@@ -1,3 +1,3 @@
-# Enhancing offline support
+# Refactoring component structure
 
-_Last updated: 2025-02-17T07:53:56.339Z_
+_Last updated: 2025-02-17T07:54:25.307Z_
