@@ -1,3 +1,3 @@
-# Minor text update
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-17T19:09:31.998Z_
+_Last updated: 2025-02-17T19:10:02.018Z_
