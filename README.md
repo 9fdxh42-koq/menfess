@@ -1,3 +1,3 @@
-# Adding better analytics tracking
+# Adding accessibility improvements
 
-_Last updated: 2025-02-17T21:11:34.021Z_
+_Last updated: 2025-02-17T21:12:04.013Z_
