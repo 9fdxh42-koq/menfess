@@ -1,3 +1,3 @@
-# Updating example code snippets
+# Fixing missing semicolons
 
-_Last updated: 2025-02-17T23:07:36.368Z_
+_Last updated: 2025-02-17T23:08:06.396Z_
