@@ -1,3 +1,3 @@
-# Fixing formatting issues in logs
+# Updating CI/CD pipeline
 
-_Last updated: 2025-02-17T14:02:01.645Z_
+_Last updated: 2025-02-17T14:02:28.414Z_
