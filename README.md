@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-17T23:16:37.077Z_
+_Last updated: 2025-02-17T23:17:06.949Z_
