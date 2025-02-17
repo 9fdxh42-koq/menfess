@@ -1,3 +1,3 @@
-# Improving error handling
+# Improving session handling
 
-_Last updated: 2025-02-17T14:02:58.618Z_
+_Last updated: 2025-02-17T14:03:28.768Z_
