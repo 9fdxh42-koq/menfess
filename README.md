@@ -1,3 +1,3 @@
-# Updating changelog
+# Fixing typos in documentation
 
-_Last updated: 2025-02-17T22:34:35.821Z_
+_Last updated: 2025-02-17T22:35:05.853Z_
