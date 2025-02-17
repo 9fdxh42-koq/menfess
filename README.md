@@ -1,3 +1,3 @@
-# Adjusting styling for better UX
+# Removing deprecated functions
 
-_Last updated: 2025-02-17T07:46:26.652Z_
+_Last updated: 2025-02-17T07:46:56.838Z_
