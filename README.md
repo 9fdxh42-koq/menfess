@@ -1,3 +1,3 @@
-# Enhancing websocket stability
+# Updating API request parameters
 
-_Last updated: 2025-02-17T19:32:32.384Z_
+_Last updated: 2025-02-17T19:33:02.408Z_
