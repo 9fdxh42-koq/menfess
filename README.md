@@ -1,3 +1,3 @@
-# Improving application startup time
+# Optimizing CSS rules
 
-_Last updated: 2025-02-17T07:21:26.272Z_
+_Last updated: 2025-02-17T07:21:56.241Z_
