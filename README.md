@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Rewriting inefficient algorithms
 
-_Last updated: 2025-02-17T15:11:59.534Z_
+_Last updated: 2025-02-17T15:12:30.406Z_
