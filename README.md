@@ -1,3 +1,3 @@
-# Optimizing CSS rules
+# Updating example code snippets
 
-_Last updated: 2025-02-17T18:42:02.133Z_
+_Last updated: 2025-02-17T18:42:31.687Z_
