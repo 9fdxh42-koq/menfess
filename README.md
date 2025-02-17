@@ -1,3 +1,3 @@
-# Fixing race conditions in async code
+# Updating project metadata
 
-_Last updated: 2025-02-17T15:30:29.876Z_
+_Last updated: 2025-02-17T15:30:59.823Z_
