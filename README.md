@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Updating API request parameters
 
-_Last updated: 2025-02-17T18:23:01.373Z_
+_Last updated: 2025-02-17T18:23:31.379Z_
