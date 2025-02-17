@@ -1,3 +1,3 @@
-# Updating documentation formatting
+# Adding accessibility improvements
 
-_Last updated: 2025-02-17T19:28:32.319Z_
+_Last updated: 2025-02-17T19:29:02.311Z_
