@@ -1,3 +1,3 @@
-# Fixing missing semicolons
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-18T00:42:02.468Z_
+_Last updated: 2025-02-18T00:42:11.899Z_
