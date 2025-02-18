@@ -1,3 +1,3 @@
-# Reducing memory usage
+# Optimizing CSS rules
 
-_Last updated: 2025-02-18T01:12:52.656Z_
+_Last updated: 2025-02-18T01:13:03.086Z_
