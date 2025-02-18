@@ -1,3 +1,3 @@
-# Fixing minor bugs
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-18T00:20:16.373Z_
+_Last updated: 2025-02-18T00:20:26.219Z_
