@@ -1,3 +1,3 @@
-# Updating API request parameters
+# Removing deprecated functions
 
-_Last updated: 2025-02-18T01:22:53.249Z_
+_Last updated: 2025-02-18T01:23:03.027Z_
