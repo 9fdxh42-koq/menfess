@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Fixing event listener memory leaks
 
-_Last updated: 2025-02-18T00:07:15.556Z_
+_Last updated: 2025-02-18T00:07:25.410Z_
