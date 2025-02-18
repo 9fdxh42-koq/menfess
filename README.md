@@ -1,3 +1,3 @@
-# Adding accessibility improvements
+# Updating outdated references
 
-_Last updated: 2025-02-18T00:26:36.594Z_
+_Last updated: 2025-02-18T00:26:47.170Z_
