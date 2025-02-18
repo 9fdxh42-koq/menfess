@@ -1,3 +1,3 @@
-# Adding better tooltips
+# Fixing race conditions in async code
 
-_Last updated: 2025-02-18T01:45:14.722Z_
+_Last updated: 2025-02-18T01:45:24.794Z_
